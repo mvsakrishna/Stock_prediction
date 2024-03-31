@@ -8,6 +8,7 @@ from sklearn.model_selection import train_test_split
 
 # random.seed(time.time())
 
+
 class StockIndexDataset:
     def __init__(self,
                  dataset_files,
